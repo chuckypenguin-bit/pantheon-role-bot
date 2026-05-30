@@ -1,4 +1,3 @@
-console.log("Token exists:", !!process.env.TOKEN);
 const {
   Client,
   GatewayIntentBits,
@@ -10,6 +9,8 @@ const {
 
 const config = require("./config.json");
 
+console.log("Bot starting...");
+console.log("Token exists:", !!process.env.TOKEN);
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
