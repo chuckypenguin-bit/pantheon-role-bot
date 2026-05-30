@@ -189,4 +189,4 @@ await member.roles.remove(
 
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);
