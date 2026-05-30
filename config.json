@@ -1,0 +1,18 @@
+{
+  "token": "",
+  "clientId": "1510240642108882944",
+  "guildId": "1508212899384922294",
+  "adminRoleId": "1508213953149276202",
+  "logChannelId": "1510243753359839362",
+
+  "roles": [
+    {
+      "label": "Pantheon Member",
+      "roleId": "1508214335145644113"
+    },
+    {
+      "label": "Pantheon Ally",
+      "roleId": "1508220770768261181"
+    }
+  ]
+}
